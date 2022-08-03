@@ -1,6 +1,6 @@
 # Readmi
-Интерфейс H2 DB доступен по "/h2-console"
-Интрефейс OpenAPI доступно но "/swagger-ui.html"
+- Интерфейс H2 DB доступен по "/h2-console"
+- Интрефейс OpenAPI доступно но "/swagger-ui.html"
 
 # poolapi
 # Задача
